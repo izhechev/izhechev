@@ -16,11 +16,17 @@
 
 ## About me
 
-- 🎓 ICT student at Fontys University of Applied Sciences, currently on exchange at FH Technikum Wien
-- 🔧 Background in embedded systems, now working more on software, integrations and AI tooling
-- 🤖 Currently building a Teams chatbot that talks to Canvas LMS through MCP
-- 🧠 Side project: LoadLight, a task manager that takes your energy and workload into account
-- 🌍 Speaks Bulgarian and English
+Hi, I'm Iskren. I'm from Bulgaria and I study ICT at Fontys in the Netherlands. This semester I'm on exchange at FH Technikum Wien in Vienna.
+
+My background is embedded systems. Lately I've been doing more on the software side.
+
+Some things I've worked on:
+
+- [LoadLight](https://github.com/izhechev/loadlight), a task app where you add tasks in plain language and it keeps track of how heavy your workload is
+- A Teams chatbot that gets data from Canvas LMS through MCP. We built it as a team for a client, and it runs on Azure Kubernetes
+- [A robot arm](https://github.com/izhechev/Robot-Arm-for-Sorting-Objects) that sorts objects and logs each one to a server with a web dashboard
+
+I speak Bulgarian and English, and I'm learning German. Right now I'm looking for an internship.
 
 ## Tech
 
