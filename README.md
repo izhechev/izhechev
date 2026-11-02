@@ -22,6 +22,7 @@ My background is embedded systems. Lately I've been doing more on the software s
 
 Some things I've worked on:
 
+- **DeskWorld (in development)**, a city sandbox I'm building where coloured paper pieces control a 3D neighbourhood through a webcam, with a challenge to get neighbours home before a storm
 - [LoadLight](https://github.com/izhechev/loadlight), a task app where you add tasks in plain language and it keeps track of how heavy your workload is
 - A Teams chatbot that gets data from Canvas LMS through MCP. We built it as a team for a client, and it runs on Azure Kubernetes
 - [A robot arm](https://github.com/izhechev/Robot-Arm-for-Sorting-Objects) that sorts objects and logs each one to a server with a web dashboard
