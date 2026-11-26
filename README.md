@@ -2,24 +2,39 @@
 
 I build software and embedded systems. I study ICT at Fontys and am currently on exchange at UAS Technikum Wien in Vienna. My favourite projects let you see code doing something in the physical world, like a robot sorting objects or a webcam turning pieces of paper into buildings.
 
-## Try DeskWorld
+[Projects you can try](#projects-you-can-try) · [More projects](#more-projects) · [LinkedIn](https://www.linkedin.com/in/iskren-zhechev-70bb66199/)
+
+## Projects you can try
+
+### DeskWorld
+
+Repair roads and get the neighbours home before a storm hits. Build with a mouse or use coloured paper and a webcam. The city and camera processing run in your browser.
 
 **[Play DeskWorld](https://izhechev.github.io/deskworld/)** · [Source code](https://github.com/izhechev/deskworld)
 
-Repair roads and get the neighbours home before a storm hits. You can build with a mouse or use coloured paper and a webcam. The city and camera processing run in the browser.
+[![Little Sunday, a DeskWorld neighbourhood with all eight homes connected by roads.](assets/deskworld-neighbourhood.png)](https://izhechev.github.io/deskworld/)
 
-[![A neighbourhood in DeskWorld with roads, buildings and trees](https://raw.githubusercontent.com/izhechev/deskworld/main/docs/desk-world.jpg)](https://izhechev.github.io/deskworld/)
+### HexSuture
+
+HexSuture records Microsoft Defender findings and checks which files can be restored from a backup. The demo replays a synthetic Windows case from scan to recovery.
+
+**[Open the HexSuture demo](https://izhechev.github.io/HexSuture/)** · [Watch the 36-second walkthrough](https://izhechev.github.io/HexSuture/#video) · [Source code](https://github.com/izhechev/HexSuture)
+
+[![Backup verification in HexSuture. The original backup verifies all 20 files. The altered backup verifies 19 and withholds report-04.txt after a SHA-256 mismatch.](assets/hexsuture-restore.png)](https://izhechev.github.io/HexSuture/)
 
 ## More projects
 
-| Project | What it does |
-| --- | --- |
-| [AdaptSort Robot Arm](https://github.com/izhechev/adaptsort-robot-arm) | Uses computer vision to sort objects with a robot arm and log them to a web dashboard. Built with an Erasmus+ team. |
-| [LoadLight](https://github.com/izhechev/loadlight) · [Open the app](https://loadlight.vercel.app/) | Turns plain-language notes into tasks and helps you see what you’ve already taken on. |
-| [STM32 Robot Swarm](https://github.com/izhechev/stm32-robot-swarm) | STM32 robots use ultrasonic sensors to avoid obstacles and report to a Node-RED dashboard over MQTT. |
-| [Smart Medicine Plate](https://github.com/izhechev/smart-medicine-plate) | An Ericsson and Fontys project that sends readings from an ESP32 sensor plate for remote monitoring. |
-| [Canvas MCP for Microsoft Teams](https://github.com/izhechev/canvas-mcp-teams) | A team project that brings Canvas grades, announcements and assignment feedback into Teams. |
-| [3D Printer Component Tester](https://github.com/izhechev/3d-printer-component-tester) | A C# desktop app and C++ firmware for testing printer movement, heating and enclosure controls separately. |
+### Robotics and embedded systems
+
+- **[AdaptSort Robot Arm](https://github.com/izhechev/adaptsort-robot-arm)** uses computer vision to sort objects with a robot arm and log them to a web dashboard. Built with an Erasmus+ team.
+- **[STM32 Robot Swarm](https://github.com/izhechev/stm32-robot-swarm)** uses ultrasonic sensors to avoid obstacles and reports to a Node-RED dashboard over MQTT.
+- **[Smart Medicine Plate](https://github.com/izhechev/smart-medicine-plate)** sends readings from an ESP32 sensor plate. Built with Ericsson and Fontys.
+- **[3D Printer Component Tester](https://github.com/izhechev/3d-printer-component-tester)** uses a C# desktop app and C++ firmware to test printer movement, heating and enclosure controls separately.
+
+### Apps and integrations
+
+- **[LoadLight](https://github.com/izhechev/loadlight)** turns plain-language notes into tasks and helps you see what you’ve already taken on. [Open the app](https://loadlight.vercel.app/).
+- **[Canvas MCP for Microsoft Teams](https://github.com/izhechev/canvas-mcp-teams)** brings Canvas grades, announcements and assignment feedback into Teams. Built with a team.
 
 <details>
 <summary>Other projects</summary>
@@ -30,7 +45,8 @@ Repair roads and get the neighbours home before a storm hits. You can build with
 
 </details>
 
-**Tools I use**  
-C, C++, C#, Python, TypeScript, ROS 2, STM32, ESP32, MQTT, Docker
+## Tools I use
 
-[LinkedIn](https://www.linkedin.com/in/iskren-zhechev-70bb66199/)
+**Languages** · C, C++, C#, Python, TypeScript
+
+**Tools and platforms** · ROS 2, STM32, ESP32, MQTT, Docker
