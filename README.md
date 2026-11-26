@@ -1,4 +1,4 @@
-# Iskren Zhechev
+# ![Iskren Zhechev](assets/profile-banner.png)
 
 I build software and embedded systems. I study ICT at Fontys and am currently on exchange at UAS Technikum Wien in Vienna. My favourite projects let you see code doing something in the physical world, like a robot sorting objects or a webcam turning pieces of paper into buildings.
 
@@ -10,7 +10,9 @@ I build software and embedded systems. I study ICT at Fontys and am currently on
 
 Repair roads and get the neighbours home before a storm hits. Build with a mouse or use coloured paper and a webcam. The city and camera processing run in your browser.
 
-**[Play DeskWorld](https://izhechev.github.io/deskworld/)** · [Source code](https://github.com/izhechev/deskworld)
+<a href="https://izhechev.github.io/deskworld/"><img src="assets/play-deskworld.png" width="178" alt="Play DeskWorld"></a>
+
+[DeskWorld source code](https://github.com/izhechev/deskworld)
 
 [![Little Sunday, a DeskWorld neighbourhood with all eight homes connected by roads.](assets/deskworld-neighbourhood.png)](https://izhechev.github.io/deskworld/)
 
@@ -18,7 +20,10 @@ Repair roads and get the neighbours home before a storm hits. Build with a mouse
 
 HexSuture records Microsoft Defender findings and checks which files can be restored from a backup. The demo replays a synthetic Windows case from scan to recovery.
 
-**[Open the HexSuture demo](https://izhechev.github.io/HexSuture/)** · [Watch the 36-second walkthrough](https://izhechev.github.io/HexSuture/#video) · [Source code](https://github.com/izhechev/HexSuture)
+<a href="https://izhechev.github.io/HexSuture/"><img src="assets/open-hexsuture.png" width="178" alt="Open the HexSuture demo"></a>
+<a href="https://izhechev.github.io/HexSuture/#video"><img src="assets/watch-walkthrough.png" width="215" alt="Watch the 36-second HexSuture walkthrough"></a>
+
+[HexSuture source code](https://github.com/izhechev/HexSuture)
 
 [![Backup verification in HexSuture. The original backup verifies all 20 files. The altered backup verifies 19 and withholds report-04.txt after a SHA-256 mismatch.](assets/hexsuture-restore.png)](https://izhechev.github.io/HexSuture/)
 
