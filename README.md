@@ -1,4 +1,4 @@
-# ![Iskren Zhechev](assets/profile-banner.png)
+# [![Iskren Zhechev, software and embedded systems. Open the STM32 Robot Swarm project.](assets/profile-swarm-header.jpg)](https://github.com/izhechev/stm32-robot-swarm)
 
 I build software and embedded systems. I study ICT at Fontys and am currently on exchange at UAS Technikum Wien in Vienna. My favourite projects let you see code doing something in the physical world, like a robot sorting objects or a webcam turning pieces of paper into buildings.
 
